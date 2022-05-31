@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jasperreports:jasperreports:4.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/jasperreports/jasperreports/4.7/jasperreports-4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../repository/jasperreports/jasperreports/4.7/jasperreports-4.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/jasperreports/jasperreports/4.7/jasperreports-4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
